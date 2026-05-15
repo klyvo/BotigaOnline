@@ -25,3 +25,5 @@ Embedding guarda los datos relacionados dentro del mismo documento (rápido para
 
 4. Estratègia en la col·lecció comandes:
 He utilizado Referencia. Guardo el client_email en la comanda para saber quién hizo la compra sin tener que copiar todos los datos del cliente cada vez.
+
+![](capturas/image.png)
